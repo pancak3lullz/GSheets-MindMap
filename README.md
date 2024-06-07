@@ -2,6 +2,8 @@
 
 This repository contains code to visualize graphs using data from a Google Sheets document. The visualization is created using NetworkX for graph management and Plotly/Dash for interactive visualization.
 
+Example: https://twitter.com/i/status/1798784440170365049
+
 ## Features
 
 - **Google Sheets Integration**: Fetch elements and connections from a Google Sheets document.
