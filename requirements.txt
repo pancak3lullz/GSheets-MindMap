@@ -1,0 +1,6 @@
+dash
+gspread
+oauth2client
+networkx
+plotly
+numpy
