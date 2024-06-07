@@ -126,7 +126,7 @@ node_trace.marker.color = node_adjacencies
 # Initial figure
 fig = go.Figure(data=[edge_trace, node_trace],
                 layout=go.Layout(
-                    title='Cybercrime Ops',
+                    title='TITLE OF YOUR MAP',
                     titlefont_size=16,
                     titlefont_color='white',
                     showlegend=False,
@@ -250,7 +250,7 @@ def update_figure(clickData, search_value, n_clicks):
 
     new_fig = go.Figure(data=[edge_trace, new_node_trace, highlighted_edge_trace],
                         layout=go.Layout(
-                            title='Cybercrime Ops',
+                            title='TITLE OF YOUR MAP',
                             titlefont_size=16,
                             titlefont_color='white',
                             showlegend=False,
