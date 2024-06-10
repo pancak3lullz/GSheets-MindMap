@@ -2,7 +2,9 @@
 
 This repository contains code to visualize graphs using data from a Google Sheets document. The visualization is created using NetworkX for graph management and Plotly/Dash for interactive visualization.
 
-Example: https://twitter.com/i/status/1798784440170365049
+<div align="center">
+   <img src="https://github.com/pancak3lullz/GSheets-MindMap/blob/main/cybercrime-ops.gif" alt="Example">
+</div>
 
 ## Features
 
