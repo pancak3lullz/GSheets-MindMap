@@ -1,4 +1,4 @@
-# GSheets MindMap
+# GSheets MindMap v2.0
 
 This app is a web application that visualizes and analyzes data using network graphs. The data is sourced from a Google Sheets document, making it easy to update and manage.
 
