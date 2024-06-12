@@ -1,6 +1,6 @@
 dash
+dash-auth
 gspread
 oauth2client
 networkx
-plotly
-numpy
+visdcc
