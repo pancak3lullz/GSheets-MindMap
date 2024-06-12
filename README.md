@@ -2,6 +2,10 @@
 
 This app is a web application that visualizes and analyzes data using network graphs. The data is sourced from a Google Sheets document, making it easy to update and manage.
 
+<div align="center">
+  <img src="https://github.com/pancak3lullz/GSheets-MindMap/blob/main/cybercrime-ops.gif">
+</div>
+
 ## Features
 
 - Visualize data as an interactive network graph
@@ -45,6 +49,11 @@ pip install -r requirements.txt
   - Keep Label and Type, but change Description and AKA to whatever you want to match with your data.
   - If you change Description or AKA column names, replace code which calls those values.
 - Replace `color_map` colors with your element Types.
+
+<div align="left">
+  <img src="https://github.com/pancak3lullz/GSheets-MindMap/blob/main/elements-sheet.png" alt="Elements Sheet" style="width: 300px; height: 500px; display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/pancak3lullz/GSheets-MindMap/blob/main/connections-sheet.png" alt="Connections Sheet" style="width: 300px; height: 500px; display: inline-block;">
+</div>
 
 ### Running the App
 
